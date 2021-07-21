@@ -13,11 +13,13 @@ https://city-weather-check.netlify.app/
 # Platform used for Hosting & Steps to Host
 Platform: Netlify 
 
-Steps:
+Steps to Host:
 1) Create Accont 
 2) Link GitHub Repository Want to Host 
 3) Click on Site Settings and edit Site Name 
 4) Done 
+
+(Note: Only Static Websites are Hostable)
 
 # Images of Project
 ![](images/eg2.png)
