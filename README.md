@@ -8,4 +8,4 @@ Web Project where you can Search for Weather of Any City of India
 3) JavaScript
 
 # Images of Project
-![](images/eg1.png)
+![](images/eg2.png)
