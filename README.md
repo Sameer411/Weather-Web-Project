@@ -1,6 +1,9 @@
 # Weather-Web-Project
 
-Web Project where you can Search for Weather of Any City of India
+Web Project where you can Search for Weather of Any State & City of India
+
+# Visit Bellow Link to check Project
+https://city-weather-check.netlify.app/ 
 
 # Languages Used
 1) HTML
