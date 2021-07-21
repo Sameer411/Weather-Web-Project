@@ -6,3 +6,6 @@ Web Project where you can Search for Weather of Any City of India
 1) HTML
 2) CSS
 3) JavaScript
+
+# Images of Project
+![](images/eg1.png)
